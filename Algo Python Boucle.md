@@ -176,11 +176,11 @@ for iterator in dct:
 
 ```py
 person = {
-    'first_name':'Asabeneh',
-    'last_name':'Yetayeh',
-    'age':250,
-    'country':'Finland',
-    'is_marred':True,
+    'first_name':'Zoubeir',
+    'last_name':'GHAOUZY',
+    'age':21,
+    'country':'Morocco',
+    'is_marred':false,
     'skills':['JavaScript', 'React', 'Node', 'MongoDB', 'Python'],
     'address':{
         'street':'Space street',
