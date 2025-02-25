@@ -4,7 +4,7 @@
 
 </div>
 
-# 📘 Day 10 GHA 25-02-2025
+# 📘 Day 10 GHAOUZY 25-02-2025
 
 ## Loops
 
