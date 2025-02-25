@@ -347,7 +347,7 @@ In python when statement is required (after semicolon), but we don't like to exe
 
 **Example:**
 
-```py
+```
 for number in range(6):
     pass
 ```
@@ -362,8 +362,20 @@ for number in range(6):
 2. Iterate 10 to 0 using for loop, do the same using while loop.
 3. Write a loop that makes seven calls to print(), so we get on the output the following triangle:
 
-   ```py
-     #
+   ```
+     n=int(input("entrer un nombre : "))
+for i in range(n):
+  fiche ={
+      'nom':"",
+      'app':""  ,
+      'grade':[20,14,12,20,20,6]
+  }
+  #calcul de la moyenne
+  s=0.
+  for x in fiche['grade']:
+      s=s+x
+  moyenne=s/6
+  print(moyenne)#
      ##
      ###
      ####
