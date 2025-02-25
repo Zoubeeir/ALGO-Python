@@ -363,6 +363,8 @@ for number in range(6):
 3. Write a loop that makes seven calls to print(), so we get on the output the following triangle:
 
    ```
+   for i in range(1,7):
+    print("#" * i )#
      n=int(input("entrer un nombre : "))
 for i in range(n):
   fiche ={
